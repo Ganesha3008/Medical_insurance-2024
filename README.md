@@ -1,2 +1,6 @@
 # Medical_insurance-2024
-WE are creating new repository in github
+
+1.problem statement
+2.EDA
+3.feature engineering
+4.feature selection
